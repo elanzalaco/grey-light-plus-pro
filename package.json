@@ -1,5 +1,9 @@
 {
   "name": "grey-light-plus-pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elanzalaco/grey-light-plus-pro"
+  },
   "displayName": "Grey Light+ Pro",
   "description": "Grey colour theme based on VSCode Light+ Pro. Less bright and softer on the eyes.",
   "version": "0.0.1",
